@@ -11,7 +11,7 @@ Apresentação - Descrição do perfil
   www.linkedin.com/in/jmaurofilho15
 
 # Main Technologies
-  ## R (language) 
-  ## Python
-  ## Microsoft Excel
-  ## SQL
+  R (language) 
+  Python
+  Microsoft Excel
+  SQL
