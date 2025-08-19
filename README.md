@@ -8,7 +8,6 @@ Apresentação - Descrição do perfil
   
   Atualmente cursando Ciências da Computação e cursos em ciência de dados e Machine Learning, em trajetória de aprendizado, aprimoramento de conhecimentos na área e busca de oportunidades, onde o objetivo é a qualificação com excelência, adquirir skills e competências para me tornar um excelente profissional e desempenhar um excelente e contributiva atuação na área.
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=black&link=%5Bhttps%3A%2F%2Fwww.linkedin.com%2Fin%2Fjmaurofilho15%2F%5D)
 
 
 # Main Technologies
