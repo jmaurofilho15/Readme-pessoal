@@ -11,10 +11,11 @@ Apresentação - Descrição do perfil
 
 
 # Main Technologies
-  R (Programming language)
+  ![Static Badge](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r)
 
-  Python
+  ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=black)
   
-  Microsoft Excel
+  [Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-Green?style=for-the-badge)
   
-  SQL
+  https://img.shields.io/badge/SQL-blue?style=for-the-badge
+
