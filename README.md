@@ -11,11 +11,12 @@ Apresentação - Descrição do perfil
 
 
 # Main Technologies
-  ![Static Badge](https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r)
+  ![Static Badge](https://img.shields.io/badge/r-%23276DC3?style=for-the-badge&logo=r&labelColor=%23276DC3&color=black)
 
   ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&labelColor=black)
   
-  [Microsoft Excel](https://img.shields.io/badge/Microsoft-Excel-Green?style=for-the-badge)
+  ![Static Badge](https://img.shields.io/badge/Microsoft-Excel-Green?style=for-the-badge)
   
-  https://img.shields.io/badge/SQL-blue?style=for-the-badge
+  ![Static Badge](https://img.shields.io/badge/SQL-orange?style=for-the-badge)
+
 
